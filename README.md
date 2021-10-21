@@ -11,8 +11,6 @@
 - 🥅 2022 Goals: Finish High Sckool
 - ⚡ Fun fact: I love to do rock climbing and play some videogames
 
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
