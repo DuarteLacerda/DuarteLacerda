@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Finish High Sckool
+- 🥅 2022 Goals: Finish High School
 - ⚡ Fun fact: I love to do rock climbing and play some videogames
 
 ### Connect with me:
