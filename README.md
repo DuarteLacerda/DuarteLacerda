@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love to do rock climbing and play some videogames
 
 ### Connect with me:
-<img align="left" alt="codeSTACKr | WebSite" width="22px" src="https://bertonisolutions.com/img/icon-certified.png" />[WebSite]
+<a href="https://DuarteLacerda.github.io"><img align="left" alt="WebSite" width="22px" src="https://bertonisolutions.com/img/icon-certified.png" /></a>
 <img align="left" alt="codeSTACKr | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />[twitch]
 <img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />[facebook]
