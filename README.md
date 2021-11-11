@@ -12,7 +12,7 @@
 <a href="https://www.twitch.tv/duarte_og"><img align="left" alt="Twitch" width="22px" src="https://cdn-icons-png.flaticon.com/128/2111/2111691.png" /></a>
 <a href="https://twitter.com/duartelacerda1"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn4.iconfinder.com/data/icons/neon-social-icons-set/256/social_media_icons_neon_set_256x256_0002_twitter.png" /></a>
 <a href="https://www.facebook.com/Duarte.lacerda.PT/"><img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /></a>
-<a href="https://www.instagram.com/duarte_lacerda/"><img align="left" alt="Instagram" width="22px" src="https://www.pxpng.com/public/uploads/small/116085657021o4ellruxrxc5rfo7rzolah8srzsyzc8calpljumwzji3hxndt7uhmtdzr92hpsv7laydnzuhlj626cflxj3mrtz2gc1jzzzmtei.png" /></a>
+<a href="https://www.instagram.com/duarte_lacerda/"><img align="left" alt="Instagram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQPUqreVAW5MNDMx1vGbSGIzEC5yBtB4e3kqjhJq2lmXLv6eYt0I08k3sEEnYLqrPeGtk&usqp=CAU" /></a>
 
 <br />
 
