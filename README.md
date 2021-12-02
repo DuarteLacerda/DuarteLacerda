@@ -12,7 +12,7 @@
 <a href="https://www.twitch.tv/duarte_og"><img align="left" alt="Twitch" width="22px" src="https://www.shareicon.net/data/256x256/2016/10/18/844043_media_512x512.png" /></a>
 <a href="https://twitter.com/duartelacerda1"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-simple-rounded-social-icon-png-logo-30.png" /></a>
 <a href="https://www.facebook.com/Duarte.lacerda.PT/"><img align="left" alt="Facebook" width="22px" src="https://clipart.info/images/ccovers/1509135368facebook-logo-png-scratch.png" /></a>
-<a href="https://www.instagram.com/duarte_lacerda/"><img align="left" alt="Instagram" width="22px" src="https://www.iconheaven.com/download/17/png/instagram_logo_png256.png" /></a>
+<a href="https://www.instagram.com/duarte_lacerda/"><img align="left" alt="Instagram" width="22px" src="https://i.pinimg.com/originals/10/48/2b/10482bcd77be21599820606013c7b6c1.png" /></a>
 
 <br />
 
