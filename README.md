@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Finish High School
-- ⚡ Fun fact: Mine and I were ranked 4th in Bot Olympics 2022
+- ⚡ Fun fact: My team won Bot Olympics 2022 👑
 
 ### Connect with me:
 <a href="https://DuarteLacerda.github.io"><img align="left" alt="WebSite" width="22px" src="https://bertonisolutions.com/img/icon-certified.png" /></a>
