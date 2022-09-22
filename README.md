@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently studying web and multimedia development 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Finish High School
+- 🥅 2022 Goals: Be healthy
 - ⚡ Fun fact: My team won Bot Olympics 2022 👑
 
 ### Connect with me:
