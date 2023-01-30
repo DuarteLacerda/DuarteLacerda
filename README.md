@@ -9,7 +9,7 @@
 ### Connect with me:
 <a href="https://DuarteLacerda.github.io"><img align="left" alt="WebSite" width="22px" src="https://bertonisolutions.com/img/icon-certified.png" /></a>
 <a href="https://www.twitch.tv/duarte_og"><img align="left" alt="Twitch" width="22px" src="https://www.shareicon.net/data/256x256/2016/10/18/844043_media_512x512.png" /></a>
-<a href="https://twitter.com/duartelacerda1"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.citypng.com/public/uploads/preview/-51614965023fopywzit3m.png" /></a>
+<a href="https://twitter.com/duartelacerda1"><img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" /></a>
 <a href="https://www.facebook.com/Duarte.lacerda.PT/"><img align="left" alt="Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Facebook_logo_%28square%29.png/240px-Facebook_logo_%28square%29.png" /></a>
 <a href="https://www.instagram.com/duarte_lacerda/"><img align="left" alt="Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" /></a>
 
