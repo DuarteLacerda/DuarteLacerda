@@ -1,6 +1,6 @@
 ### Hi there, I'm Duarte Lacerda 👋
 
-## I'm a Student and Developer!!
+### I'm a Student and Developer!!
 
 - 🌱 I’m currently studying web and multimedia development 
 - 🥅 2022 Goals: Be healthy
