@@ -44,3 +44,5 @@
 [twitch]: https://www.twitch.tv/duarte_og
 [instagram]: https://www.instagram.com/duarte_lacerda/
 [facebook]: https://www.facebook.com/Duarte.lacerda.PT/
+
+#Badges https://github.com/Ileriayo/markdown-badges
