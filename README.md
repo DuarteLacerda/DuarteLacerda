@@ -45,4 +45,4 @@
 [instagram]: https://www.instagram.com/duarte_lacerda/
 [facebook]: https://www.facebook.com/Duarte.lacerda.PT/
 
-#Badges https://github.com/Ileriayo/markdown-badges
+Badges: <a alt="" href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
