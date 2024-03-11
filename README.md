@@ -3,7 +3,7 @@
 ### I'm a Student and Developer!!
 
 - 🌱 I’m currently studying web and multimedia development 
-- 🥅 2023 Goals: Be mentally healthy
+- 🥅 2024 Goals: Be mentally healthy
 - ⚡ Fun fact: My team won Bot Olympics 2022 👑
 
 ### Connect with me:
