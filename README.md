@@ -39,10 +39,4 @@
 #### Operating Systems
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> <img alt="Cent OS" src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0"/> <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/> <img alt="Linux Mint" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white"/> <img alt="Zorin OS" src="https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white"/> <img alt="Lubuntu" src="https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white"/> <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white"/>
 
-[WebSite]: https://duartelacerda.github.io/
-[Twitter]: https://twitter.com/duartelacerda1
-[Twitch]: https://www.twitch.tv/duarte_og
-[Instagram]: https://www.instagram.com/duarte_lacerda/
-[Facebook]: https://www.facebook.com/Duarte.lacerda.PT/
-
 Badges: <a alt="" href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
