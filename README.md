@@ -27,7 +27,7 @@ If you want to know more or connect, feel free to explore my repositories and so
 
 📫 **Contacto | Contacts**
 
-- Email: duarte.lacerda@example.com  
+- [Email](duartelacerda4@gmail.com)
 - LinkedIn: [linkedin.com/in/duartelacerda](https://linkedin.com/in/duartelacerda)  
 
 ---
