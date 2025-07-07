@@ -7,7 +7,7 @@
 
 ---
 
-✍️ Sobre mim | About me
+✍️ **Sobre mim | About me**
 
 - **🇵🇹**  
 Olá! Sou o Duarte Lacerda, estudante de Engenharia Informática na ESTG-Leiria. Sou apaixonado por programação, tecnologia e inovação.  
@@ -25,7 +25,7 @@ If you want to know more or connect, feel free to explore my repositories and so
 
 ---
 
-📫 **Contacto**
+📫 **Contacto | Contacts**
 
 - Email: duarte.lacerda@example.com  
 - LinkedIn: [linkedin.com/in/duartelacerda](https://linkedin.com/in/duartelacerda)  
@@ -34,7 +34,7 @@ If you want to know more or connect, feel free to explore my repositories and so
 
 ---
 
-💡 **Lema pessoal**
+💡 **Lema pessoal | Personal motto**
 
 > “Tudo vale a pena se a alma não é pequena.”  
 > — Fernando Pessoa
