@@ -4,7 +4,7 @@
 
 - 🎓 Currently studying Computer Engineering @ ESTG – Leiria  
 - 🌱 I’m constantly learning and trying to improve  
-- 🥅 2024 Goal: Be mentally healthy and balanced  
+- 🥅 2025 Goal: Be mentally healthy and balanced  
 - ⚡ Fun fact: My team won the Bot Olympics 2022 👑
 
 ### Connect with me:
