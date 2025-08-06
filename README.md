@@ -36,5 +36,5 @@ If you want to know more or connect, feel free to explore my repositories and so
 
 💡 **Lema pessoal | Personal motto**
 
-> “Tudo vale a pena se a alma não é pequena.”  
-> — Fernando Pessoa
+> “A person who never made a mistake never tried anything new.”  
+> — Albert Einstein
