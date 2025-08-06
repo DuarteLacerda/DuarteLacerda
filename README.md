@@ -36,5 +36,5 @@ If you want to know more or connect, feel free to explore my repositories and so
 
 💡 **Lema pessoal | Personal motto**
 
-> “A person who never made a mistake never tried anything new.”  
+> “The only source of knowledge is experience.”  
 > — Albert Einstein
