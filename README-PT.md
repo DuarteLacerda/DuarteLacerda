@@ -51,3 +51,4 @@
 [![](https://visitcount.itsvg.in/api?id=DuarteLacerda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Insígnias: <a href="https://github.com/Ileriayo/markdown-badges">Ileriayo</a>
+Gráficos: <a href="https://gprm.itsvg.in">GPRM</a>
