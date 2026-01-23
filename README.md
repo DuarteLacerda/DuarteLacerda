@@ -22,7 +22,6 @@ I enjoy exploring different languages and tools to develop projects that challen
 In addition to my studies, I participate in competitions and personal projects, where I apply my knowledge and develop creative solutions.  
 I believe that professional growth is always linked to curiosity, constant practice, and the desire to improve.  
 If you want to know more or connect, feel free to explore my repositories and social networks!
-Translated with DeepL.com (free version)
 
 ---
 
